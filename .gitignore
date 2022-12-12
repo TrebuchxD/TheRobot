@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#Od Jędrzeja:
+
+Debug/Core
+Debug/Drivers
+.elf
+.bin
+.list
+.mk
+.map
